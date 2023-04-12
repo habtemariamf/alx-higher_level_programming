@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-"""
-    This is a python script that adds all arguments to a Python List.
-    List is then saved to a file.
-"""
 import sys
 import json
 save_to_json_file = __import__('5-save_to_json_file').save_to_json_file
